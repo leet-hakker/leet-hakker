@@ -1,3 +1,4 @@
+<div align="center" style="text-align:center">
 ### Hi, I'm leet. As you can see, my name was taken already.
 
 
@@ -6,3 +7,4 @@
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Editor-Atom-informational?style=flat&logo=Atom&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Tools-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=Flask&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=Blender&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=6B9EF3)
 
+</div>
