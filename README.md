@@ -1,3 +1,4 @@
+<div align="center" text-align="center">
 ### Hi, I'm leet. As you can see, my name was taken already.
 
 
@@ -11,3 +12,5 @@
 If I've made something that was useful to you, please consider donating, so I may purchase sandwiches.
 
 ![](https://img.shields.io/badge/XMG-46e4ydThofCjZiGrh4jL2NdBptEDnY5Sa62bGPF6WzhWgKCp6VPth3NDu3eZ7xxdKHCnFKBGkaTHK99sw6vpTX44P1mLDVL-informational?style=flat&logo=Monero&logoColor=white&color=6B9EF3)
+
+</div>
