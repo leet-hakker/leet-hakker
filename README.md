@@ -1,6 +1,6 @@
 <div align="center" text-align="center">
 
-### Hi, I'm leet. As you can see, my name was taken already.
+### Hi, I'm leet.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=thenamesweretakenalready&count_private=true&show_icons=true&theme=tokyonight)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thenamesweretakenalready&theme=tokyonight&hide=html&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
