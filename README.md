@@ -8,11 +8,5 @@
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=Linux&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&logo=NeoVim&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Tools-SQLite-informational?style=flat&logo=SQLite&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Tools-Flask-informational?style=flat&logo=Flask&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Tools-Blender-informational?style=flat&logo=Blender&logoColor=white&color=6B9EF3) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=GNU-Bash&logoColor=white&color=6B9EF3)
 
-#### Donate
 
-In the unlikely event I've made something that was useful to you, please consider donating, so I can afford a WinRAR license.
-
-![](https://img.shields.io/badge/XMG-46e4ydThofCjZiGrh4jL2NdBptEDnY5Sa62bGPF6WzhWgKCp6VPth3NDu3eZ7xxdKHCnFKBGkaTHK99sw6vpTX44P1mLDVL-informational?style=flat&logo=Monero&logoColor=white&color=6B9EF3)
-![](https://img.shields.io/badge/BTC-bc1qzgnd67jwnj7csnu74k407f634etrvmdgkw2k7u-informational?style=flat&logo=Bitcoin&logoColor=white&color=6B9EF3)
-![](https://img.shields.io/badge/ETH-0x14F57FF5DCCb552f6C8c81EB1a7875f45d073fBF-informational?style=flat&logo=Ethereum&logoColor=white&color=6B9EF3)
 </div>
